@@ -1,0 +1,6 @@
+name = "asghar-portfolio"
+pages_build_output_dir = "./dist"
+compatibility_date = "2026-10-18"
+
+# Configure the PORTFOLIO_CONTENT KV binding in Cloudflare Pages settings.
+# If deploying with Wrangler, add a [[kv_namespaces]] block with your real namespace ID.
